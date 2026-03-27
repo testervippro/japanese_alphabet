@@ -46,26 +46,26 @@
       "image": "image1.png",
       "mnemonic": "ア (a): Looks like an axe.\nイ (i): Looks like an easel on its side.\nウ (u): Angular version of う (hiragana).\nエ (e): Elevator doors.\nオ (o): An opera singer."
     },
+   {
+  "image": "image7.png",
+  "mnemonic": "カ (ka): Angular version of か.\nキ (ki): Like き but simpler (no bottom part).\nク (ku): A cuckoo’s tail.\nケ (ke): Looks like the letter K.\nコ (ko): A road with two corners.\n\nDakuon: ガ (ga), ギ (gi), グ (gu), ゲ (ge), ゴ (go)"
+},
     {
-      "image": "image7.png",
-      "mnemonic": "カ (ka): Angular version of か.\nキ (ki): Like き but simpler (no bottom part).\nク (ku): A cuckoo’s tail.\nケ (ke): Looks like the letter K.\nコ (ko): A road with two corners."
-    },
+  "image": "image8.png",
+  "mnemonic": "サ (sa): A saddle.\nシ (shi): A sinking ship.\nス (su): A person skiing.\nセ (se): Like せ but simpler.\nソ (so): A soft-serve ice cream.\n\nDakuon: ザ (za), ジ (ji), ズ (zu), ゼ (ze), ゾ (zo)"
+},
     {
-      "image": "image8.png",
-      "mnemonic": "サ (sa): A saddle.\nシ (shi): A sinking ship.\nス (su): A person skiing.\nセ (se): Like せ but simpler.\nソ (so): A soft-serve ice cream."
-    },
-    {
-      "image": "image4.png",
-      "mnemonic": "タ (ta): A person holding a tablet.\nチ (chi): A chicken.\nツ (tsu): A tuna fish head.\nテ (te): A bent telephone pole.\nト (to): A totem pole (side view)."
-    },
+  "image": "image4.png",
+  "mnemonic": "タ (ta): A person holding a tablet.\nチ (chi): A chicken.\nツ (tsu): A tuna fish head.\nテ (te): A bent telephone pole.\nト (to): A totem pole (side view).\n\nDakuon: ダ (da), ヂ (ji), ヅ (zu), デ (de), ド (do)"
+},
     {
       "image": "image9.png",
       "mnemonic": "ナ (na): A curved knife.\nニ (ni): Straight version of に.\nヌ (nu): A Noose.\nネ (ne): A nest in a tree.\nノ (no): A simple “no” sign."
     },
-    {
-      "image": "image2.png",
-      "mnemonic": "ハ (ha): A roof of a house.\nヒ (hi): The side of a heel.\nフ (fu): The tip of a foot.\nヘ (he): Same as hiragana へ.\nホ (ho): A shining cross."
-    },
+  {
+  "image": "image2.png",
+  "mnemonic": "ハ (ha): A roof of a house.\nヒ (hi): The side of a heel.\nフ (fu): The tip of a foot.\nヘ (he): Same as hiragana へ.\nホ (ho): A shining cross.\n\nDakuon: バ (ba), ビ (bi), ブ (bu), ベ (be), ボ (bo)\nHandakuon: パ (pa), ピ (pi), プ (pu), ペ (pe), ポ (po)"
+},
     {
       "image": "image5.png",
       "mnemonic": "マ (ma): A manta ray.\nミ (mi): Look for the middle line.\nム (mu): Moose antlers.\nメ (me): A box = “mail”.\nモ (mo): Like も but lines don’t cross."
