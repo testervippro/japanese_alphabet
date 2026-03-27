@@ -4,10 +4,10 @@
       "image": "image1.png",
       "mnemonic": "あ (a): Think of an Apple with a stem.\nい (i): Imagine two \"i\"s side-by-side, like two eyes.\nう (u): A boxer getting punched in the stomach, saying \"Ugh!\"\nえ (e): An Energetic ninja running.\nお (o): A UFO in the sky. Note the extra stroke compared to \"a\"."
     },
-    {
-      "image": "image2.png",
-      "mnemonic": "か (ka): A blade cutting a stick.\nき (ki): It looks like a key.\nく (ku): A cuckoo bird’s beak.\nけ (ke): A cake.\nこ (ko): Two koi fish swimming around each other."
-    },
+  {
+  "image": "image2.png",
+  "mnemonic": "か (ka): A blade cutting a stick.\nき (ki): It looks like a key.\nく (ku): A cuckoo bird’s beak.\nけ (ke): A cake.\nこ (ko): Two koi fish swimming around each other.\n\nDakuon: が (ga), ぎ (gi), ぐ (gu), げ (ge), ご (go)"
+},
     {
       "image": "image10.png",
       "mnemonic": "さ (sa): A sad face (missing one line).\nし (shi): A fishing hook.\nす (su): A sip of water (or straw in a glass).\nせ (se): A mount about to say something.\nそ (so): A zigzag sewing stitch."
