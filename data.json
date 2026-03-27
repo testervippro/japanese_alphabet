@@ -8,22 +8,22 @@
   "image": "image2.png",
   "mnemonic": "か (ka): A blade cutting a stick.\nき (ki): It looks like a key.\nく (ku): A cuckoo bird’s beak.\nけ (ke): A cake.\nこ (ko): Two koi fish swimming around each other.\n\nDakuon: が (ga), ぎ (gi), ぐ (gu), げ (ge), ご (go)"
 },
-    {
-      "image": "image10.png",
-      "mnemonic": "さ (sa): A sad face (missing one line).\nし (shi): A fishing hook.\nす (su): A sip of water (or straw in a glass).\nせ (se): A mount about to say something.\nそ (so): A zigzag sewing stitch."
-    },
-    {
-      "image": "image9.png",
-      "mnemonic": "た (ta): Looks like a dog.\nち (chi): A cheerleader (mirror of さ).\nつ (tsu): A tsunami wave.\nて (te): Looks like a hand.\nと (to): A tornado."
-    },
+   {
+  "image": "image10.png",
+  "mnemonic": "さ (sa): A sad face (missing one line).\nし (shi): A fishing hook.\nす (su): A sip of water (or straw in a glass).\nせ (se): A mouth about to say something.\nそ (so): A zigzag sewing stitch.\n\nDakuon: ざ (za), じ (ji), ず (zu), ぜ (ze), ぞ (zo)"
+},
+   {
+  "image": "image9.png",
+  "mnemonic": "た (ta): Looks like a dog.\nち (chi): A cheerleader (mirror of さ).\nつ (tsu): A tsunami wave.\nて (te): Looks like a hand.\nと (to): A tornado.\n\nDakuon: だ (da), ぢ (ji), づ (zu), で (de), ど (do)"
+},
     {
       "image": "image8.png",
       "mnemonic": "な (na): A complicated knot (or nut).\nに (ni): A knee.\nぬ (nu): Chopsticks holding noodles.\nね (ne): A snail behind a nail.\nの (no): A \"no\" sign (circle)."
     },
-    {
-      "image": "image3.png",
-      "mnemonic": "は (ha): Looks like an H with a loop.\nひ (hi): A smiling face saying \"he he\".\nふ (fu): Mount Fuji.\nへ (he): An arrow pointing up to the Heaven.\nほ (ho): A horse’s face."
-    },
+   {
+  "image": "image3.png",
+  "mnemonic": "は (ha): Looks like an H with a loop.\nひ (hi): A smiling face saying \"he he\".\nふ (fu): Mount Fuji.\nへ (he): An arrow pointing up to the Heaven.\nほ (ho): A horse’s face.\n\nDakuon: ば (ba), び (bi), ぶ (bu), べ (be), ぼ (bo)\nHandakuon: ぱ (pa), ぴ (pi), ぷ (pu), ぺ (pe), ぽ (po)"
+},
     {
       "image": "image4.png",
       "mnemonic": "ま (ma): A man wearing a mask.\nみ (mi): A musical note.\nむ (mu): A cow saying \"moo\".\nめ (me): A messy face (dropped noodles).\nも (mo): A monitor lizard with a long tail."
